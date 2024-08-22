@@ -1,0 +1,1 @@
+  failureFlash: true,
